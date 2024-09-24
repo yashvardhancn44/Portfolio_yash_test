@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
-import insightdashboard from "@/public/wordanalytics.png";
+import insightdashboard from "@/public/insightdashboard.png";
 
 export const links = [
   {
