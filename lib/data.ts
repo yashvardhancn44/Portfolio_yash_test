@@ -133,7 +133,7 @@ export const projectsData = [
     description: "A Full stack Notes app",
     tags: ["React", "Express.js", "Prisma", "PostgresSQL"],
     imageUrl: notesappImg,
-    gitlink: "https://github.com/yashvardhancn44/React-NotesAPP-fullstack",
+    gitlink: "https://github.com/yashvardhancn44/Notes-App-Full-Stack-Frontend",
   },
 ] as const;
 
