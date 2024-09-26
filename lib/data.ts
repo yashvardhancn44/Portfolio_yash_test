@@ -5,10 +5,10 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import insightdashboardImg from "@/public/insightdashboard.png";
-// import insightDashImg from "@/public/insightDash.png";
-// import portfolioImg from "@/public/portfolio.png";
-// import notesappImg from "@/public/notesApp.png";
-// import yashcartImg from "@/public/yashcart.png";
+import insightDashImg from "@/public/insightDash.png";
+import portfolioImg from "@/public/portfolio.png";
+import notesappImg from "@/public/notesApp.png";
+import yashcartImg from "@/public/yashcart.png";
 
 export const links = [
   {
@@ -100,7 +100,6 @@ export const experiencesData = [
 ] as const;
  */
 
-/*
 export const projectsData = [
   {
     title: "Yashcart",
@@ -137,8 +136,8 @@ export const projectsData = [
     gitlink: "https://github.com/yashvardhancn44/React-NotesAPP-fullstack",
   },
 ] as const;
- */
 
+/*
 export const projectsData = [
   {
     title: "CorpComment",
@@ -164,6 +163,7 @@ export const projectsData = [
     gitlink: "https://github.com/yashvardhancn44",
   },
 ] as const;
+ */
 
 export const skillsData = [
   "HTML",

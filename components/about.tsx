@@ -51,7 +51,7 @@ export default function About() {
         values are hard work, smartness🧠, discipline, focus, and belief,
         through which I believe I can tackle any challenges and achieve success.
       </p>
-      <p>
+      <p className="mb-3">
         During my 🎓 graduation, I engaged in challenging research projects,
         including studying bipedal robots and developing a gesture recognition
         system. As a shooting guard, I proudly represented my college in
@@ -62,7 +62,7 @@ export default function About() {
         during the challenging times of COVID-19😷, where we remained the only
         functional team at SIT.
       </p>
-      <p>
+      <p className="mb-3">
         Professionally 💼, I began my journey at Cisco as a software developer
         in the Financial Reporting team, selected through a rigorous six-stage
         process in the Cisco Ideathon. I designed a Kafka consumer 🖥️ for
