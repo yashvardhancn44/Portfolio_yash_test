@@ -66,8 +66,9 @@ export default function Intro() {
         <span className="font-bold"> Hi, I'm Yashvardhan.</span> I have
         previously worked at{" "}
         <span className="font-bold">Cisco Systems as a Software Engineer</span>.
-        I have rich project expertise in <span className="font-bold">Web</span>{" "}
-        , <span className="font-bold">Machine Learning</span> ,{" "}
+        I have rich project expertise in{" "}
+        <span className="font-bold">Full Stack Web development</span> ,{" "}
+        <span className="font-bold">Machine Learning</span> ,{" "}
         <span className="font-bold">Cloud</span> and{" "}
         <span className="font-bold">Big Data</span> technologies. I have{" "}
         <span className="font-bold">1 year</span> of Work Experience and{" "}
