@@ -34,13 +34,15 @@ export default function About() {
       <p className="mb-3">
         My professional💼 journey spans diverse experiences, from developing big
         data solutions and web applications at Cisco, where I built a 🛠️Kafka
-        consumer that optimized data transfer for a million records, to
-        freelance projects and contributing to an Ed-tech startup as both a web
-        developer and tutor. Beyond coding, I stay active with interests like
-        Reading📚, Running🏃‍♂️, Basketball, Cooking🍳, Spirituality🧘‍♀️, Movies🎥
-        and Travelling✈️. I thrive in collaborative environments and embrace
-        values like hard work, intelligence, discipline, focus, and belief to
-        tackle challenges and drive success.
+        consumer that optimized data transfer for a million records, a Frontend
+        Dashboard UI using ReactJS, Backend for invoice processing system using
+        Java-SpringBoot, to freelancing Full stack website projects and
+        contributing to an Ed-tech startup as both a frontend web developer.
+        Beyond coding, I stay active with interests like Reading📚, Running🏃‍♂️,
+        Basketball, Cooking🍳, Spirituality🧘‍♀️, Movies🎥 and Travelling✈️. I
+        thrive in collaborative environments and embrace values like hard work,
+        intelligence, discipline, focus, and belief to tackle challenges and
+        drive success.
       </p>
     </motion.section>
   );
