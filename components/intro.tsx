@@ -71,7 +71,7 @@ export default function Intro() {
         <span className="font-bold">Machine Learning</span> ,{" "}
         <span className="font-bold">Cloud</span> and{" "}
         <span className="font-bold">Big Data</span> technologies. I have{" "}
-        <span className="font-bold">1 year</span> of Work Experience and{" "}
+        <span className="font-bold">2+ years</span> of Work Experience and{" "}
         <span className="font-bold">3+ years</span> of Project Experience.
       </motion.h1>
 
